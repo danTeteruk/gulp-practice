@@ -1,0 +1,21 @@
+{
+  "name": "responsive-design",
+  "homepage": "https://github.com/danTeteruk/responsive-design",
+  "authors": [
+    "danTeteruk"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#~4.1.1"
+  }
+}
