@@ -11,4 +11,4 @@
 
 - gulp (build and serve)
 
-- gulp pushToMaster (add, commit and push to github)
+- gulp pushToMaster (add, commit and push to github).
