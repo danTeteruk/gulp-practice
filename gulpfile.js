@@ -25,7 +25,7 @@ gulp.task('add', function(){
 });
 
 gulp.task('commit', function(){
-  return gulp.src('*')
+  return gulp.src('./*')
     .pipe(git.commit('one of many commit'));
 });
 

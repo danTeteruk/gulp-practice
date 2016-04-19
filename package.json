@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danTeteruk/responsive-design.git"
+    "url": "git+https://github.com/danTeteruk/gulp-practice.git"
   },
   "author": "danTeteruk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danTeteruk/responsive-design/issues"
+    "url": "https://github.com/danTeteruk/gulp-practice/issues"
   },
-  "homepage": "https://github.com/danTeteruk/responsive-design#readme",
+  "homepage": "https://github.com/danTeteruk/gulp-practice#readme",
   "dependencies": {
     "browser-sync": "^2.12.3",
     "del": "^2.2.0",

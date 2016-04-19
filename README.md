@@ -10,3 +10,5 @@
 - gulp build (build src)
 
 - gulp (build and serve)
+
+- gulp pushToMaster (add, commit and push to github)
