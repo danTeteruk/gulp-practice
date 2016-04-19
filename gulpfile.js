@@ -26,7 +26,10 @@ gulp.task('add', function(){
 
 gulp.task('commit', function(){
   return gulp.src('./*')
-    .pipe(git.commit('one of many commit'));
+    .pipe(git.commit(undefined, {
+      args: '-m "initial commit"',
+    disableMessageRequirement: true
+  }));
 });
 
 gulp.task('push', function(){
