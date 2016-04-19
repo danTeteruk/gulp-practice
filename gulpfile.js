@@ -12,12 +12,10 @@ var mainBowerFiles = require('main-bower-files');
 var sass = require('gulp-sass');
 var git = require('gulp-git');
 
-
 var pth = {
    src: 'src',
    build: 'build'
 };
-
 
 gulp.task('add', function(){
   return gulp.src("*")
